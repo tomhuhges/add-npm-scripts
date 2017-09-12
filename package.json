@@ -1,0 +1,24 @@
+{
+  "name": "add-npm-script",
+  "version": "1.0.0",
+  "description": "add npm scripts to your package.json from CLI",
+  "main": "lib/index.js",
+  "bin": {
+    "add-npm-script": "bin/module.js"
+  },
+  "dependencies": {
+    "js-object-pretty-print": "^0.3.0",
+    "prompt-confirm": "^1.2.0"
+  },
+  "devDependencies": {
+
+  },
+  "keywords": [
+    "npm",
+    "scripts",
+    "package.json",
+    "CLI"
+  ],
+  "author": "tom hughes <tomhuhges@gmail.com> (http://www.tomhuhges.com/)",
+  "license": "ISC"
+}

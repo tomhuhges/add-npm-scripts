@@ -19,7 +19,7 @@ Run the command from any directory with a `package.json` file. The command takes
 The default behaviour is to overwrite a script if it currently exists. The `-w` flag will warn the user that they're about to overwrite an existing script and will require a (y/n) confirmation.
 
 ```bash
-$ add-npm-script <name> <body> [-w/--warn]
+$ add-npm-script <name> <body> [-w|--warn]
 ```
 
 eg.

@@ -1,6 +1,7 @@
 # add-npm-script
 
-add npm scripts to your package.json from CLI
+add npm scripts to your package.json from CLI  
+boring version of [npm-add-script](https://github.com/coleww/npm-add-script)
 
 #### Install
 
